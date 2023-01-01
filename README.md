@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathoreayush&label=Profile%20views&color=0e75b6&style=flat" alt="rathoreayush" /> </p>
 
-- 🌱 I’m currently learning **Nodejs.**
+- 🔭 I’m currently working on **React Js**
+
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **React, Redux,**
 
@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathoreayush&show_icons=true&locale=en&layout=compact" alt="rathoreayush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathoreayush&show_icons=true&locale=en" alt="rathoreayush" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathoreayush&" alt="rathoreayush" /></p>
